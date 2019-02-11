@@ -1,0 +1,5 @@
+Instructions:
+Execute extensions.py file
+python extensions.py
+
+Drag mouse around window to examine shapes in 3-D space.
