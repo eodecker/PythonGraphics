@@ -3,3 +3,23 @@ Execute extensions.py file
 python extensions.py
 
 Drag mouse around window to examine shapes in 3-D space.
+
+
+Summary:
+The goal of the project was to use 3D turtle to make 3D shapes. With the 3D shapes, we then created 3D scenes.
+
+For my extension of the project I chose to make a dodecahedron shape. I made the shape by drawing half of the dodecahedron using strings and then duplicating the half upside down to create the full shape. I made two versions of the dodecahedron, one is filled, the other is not. The filled dodecahedron is filled with a randomly generated pinkish / purplish color. Below is an image of the "extensions.py" file with my scene including two dodecahedrons (as well as other extensions which I will talk about below).
+
+Extensions:
+
+I created another recursive function. My second recursive function draws a pumpkin. The two small pumpkins are pictured in images 4 and 5.
+
+I created a flower function that draws a vertical, spiraling flower that changes color. This complicated series of shapes utilizes for loops and a complicated string to draw the petal shapes.
+
+My pink fill for the dodecahedron and the 'goldish' line style go a step beyond just being random. They are random within a certain color range to achieve more specificity in color, yet also providing a uniqueness to each image.
+
+What I Learned:
+
+I had a lot of fun playing around with creating shapes in 3D. I learned how to manipulate shapes in a three-dimensional space and arrange them in a 3D scene. I also learned how to create recursive functions.
+
+I received help from Brit and Stephanie.
